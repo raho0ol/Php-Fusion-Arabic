@@ -1,0 +1,90 @@
+<?php
+// Panel Management
+$locale['PANEL_400'] = "لوحات";
+$locale['PANEL_401'] = "اسم اللوحة";
+$locale['PANEL_402'] = "الجهة";
+$locale['PANEL_403'] = "الترتيب";
+$locale['PANEL_404'] = "النوع";
+$locale['PANEL_405'] = "الوصول";
+$locale['PANEL_406'] = "الخيارات";
+$locale['PANEL_407'] = "الألواح الحالية";
+$locale['PANEL_408'] = "إضافة لوحة";
+$locale['PANEL_409'] = "تحرير لوحة";
+$locale['PANEL_410'] = "يمكنك سحب وإسقاط الألواح عبر نوافذ القوائم لتبديل الأماكن أو ترتيبها.";
+// Panel Settings
+$locale['PANEL_420'] = "يسار";
+$locale['PANEL_421'] = "في المنتصف أعلى الصفحة";
+$locale['PANEL_422'] = "يمين";
+$locale['PANEL_423'] = "الملف";
+$locale['PANEL_424'] = "PHP";
+$locale['PANEL_425'] = "أسفل الوسط";
+$locale['PANEL_426'] = "تحت رأس الصفحة";
+$locale['PANEL_427'] = "فوق ذيل الصفحة";
+$locale['PANEL_428a'] = "User 1";
+$locale['PANEL_428b'] = "User 2";
+$locale['PANEL_428c'] = "User 3";
+$locale['PANEL_428d'] = "User 4";
+// Panel Options1
+$locale['PANEL_430'] = "النقل إلى اليسار";
+$locale['PANEL_431'] = "النقل إلى اليمين";
+$locale['PANEL_432'] = "النقل لأعلى";
+$locale['PANEL_433'] = "النقل لأسفل";
+$locale['PANEL_435'] = "تفعيل";
+$locale['PANEL_436'] = "تعطيل";
+$locale['PANEL_438'] = "لوحة جديدة";
+$locale['PANEL_439'] = "تأكد من ترتيب قييم اللوحة";
+$locale['PANEL_440'] = "حذف اللوحة؟";
+$locale['PANEL_441'] = "يسار";
+$locale['PANEL_442'] = "يمين";
+$locale['PANEL_443'] = "أعلى";
+$locale['PANEL_444'] = "أسفل";
+$locale['PANEL_445'] = "النقل إلى الأعلى";
+$locale['PANEL_446'] = "النقل إلى الأسفل";
+// Add/Edit Panel Form
+$locale['PANEL_450'] = "تحرير لوحة";
+$locale['PANEL_451'] = "إضافة لوحة";
+$locale['PANEL_452'] = "اسم اللوحة:";
+$locale['PANEL_453'] = "اسم ملف اللوحة:";
+$locale['PANEL_454'] = "سيتم تجاهل محتويات اللوحة (أدناه) إذا تم اختيار ملف للمحتويات";
+$locale['PANEL_455'] = "محتوى اللوحة:";
+$locale['PANEL_456'] = "كلمة مرور الإدارة:";
+$locale['PANEL_457'] = "لوحة جانبية:";
+$locale['PANEL_458'] = "لوحة الوصول:";
+$locale['PANEL_459'] = "Display panel on all pages";
+$locale['PANEL_460'] = "معاينة اللوحة";
+$locale['PANEL_461'] = "حفظ اللوحة";
+$locale['PANEL_462'] = "تقييد اللوحة:";
+$locale['PANEL_463'] = "أمثلة:";
+$locale['PANEL_464'] = "إخفاء في هذه الصفحات";
+$locale['PANEL_465'] = "عرض في هذه الصفحات";
+$locale['PANEL_466'] = "لغة اللوحة:";
+$locale['PANEL_467'] = "Display on Opening Page only";
+$locale['PANEL_468'] = "نوع اللوحة";
+$locale['PANEL_469'] = "لا شيء";
+$locale['PANEL_469a'] = "المحتوى";
+// Update/Add new Panel Errors
+$locale['PANEL_470'] = "اسم اللوحة غير معرف";
+$locale['PANEL_471'] = "اسم اللوحة مستخدم من قبل";
+$locale['PANEL_472'] = "محتوى اللوحة غير معرف";
+$locale['PANEL_473'] = "اسم ملف اللوحة غير معرف";
+$locale['PANEL_474'] = "كلمة مرور لوحة التحكم غير صحيحة";
+$locale['PANEL_475'] = "يجب أن يكون هناك قسم على الأقل في قائمة التصفية لإستخدامها";
+// Update/Add new Panel Success/Fail
+$locale['PANEL_480'] = "تحديث اللوحة";
+$locale['PANEL_481'] = "لا يمكن تحديث اللوحة";
+$locale['PANEL_482'] = "تم تحديث اللوحة";
+$locale['PANEL_483'] = "لوحة جديدة";
+$locale['PANEL_484'] = "لا يمكن إضافة لوحة جديدة";
+$locale['PANEL_485'] = "تم إضافة لوحة جديدة";
+$locale['PANEL_486'] = "العودة إلى إدارة اللوحات";
+$locale['PANEL_487'] = "العودة إلى لوحة التحكم";
+$locale['PANEL_488'] = "Panel order updated.";
+$locale['PANEL_489'] = "Panel deleted.";
+//Visual Panel
+$locale['PANEL_600'] = "واجهة إدارة اللوحات";
+$locale['PANEL_602'] = "ألواح غير مستخدمة";
+$locale['PANEL_603'] = "ألواح مستخدمة";
+$locale['PANEL_604'] = "Panel|Panels";
+// $locale['PANEL_605'] = "";
+$locale['PANEL_606'] = "محتوى الموقع";
+$locale['PANEL_607'] = "الملف";
